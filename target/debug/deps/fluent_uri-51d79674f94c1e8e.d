@@ -1,0 +1,12 @@
+/home/dilip/project/openedge-lsp/target/debug/deps/libfluent_uri-51d79674f94c1e8e.rmeta: /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/lib.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/enc/mod.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/enc/table.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/enc/imp.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/fmt.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/view.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/parser.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/internal.rs
+
+/home/dilip/project/openedge-lsp/target/debug/deps/fluent_uri-51d79674f94c1e8e.d: /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/lib.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/enc/mod.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/enc/table.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/enc/imp.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/fmt.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/view.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/parser.rs /home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/internal.rs
+
+/home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/lib.rs:
+/home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/enc/mod.rs:
+/home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/enc/table.rs:
+/home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/enc/imp.rs:
+/home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/fmt.rs:
+/home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/view.rs:
+/home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/parser.rs:
+/home/dilip/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fluent-uri-0.1.4/src/internal.rs:
