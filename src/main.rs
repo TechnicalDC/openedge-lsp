@@ -48,10 +48,20 @@ use std::error::Error;
 
 use lsp_types::OneOf;
 use lsp_types::{
-    GotoDefinitionResponse, InitializeParams, ServerCapabilities, request::GotoDefinition,
+    GotoDefinitionResponse,
+    InitializeParams,
+    ServerCapabilities,
+    request::GotoDefinition,
 };
 
-use lsp_server::{Connection, ExtractError, Message, Request, RequestId, Response};
+use lsp_server::{
+    Connection,
+    ExtractError,
+    Message,
+    Request,
+    RequestId,
+    Response
+};
 
 fn main() -> Result<(), Box<dyn Error + Sync + Send>> {
     // Note that  we must have our logging only write out to stderr.
